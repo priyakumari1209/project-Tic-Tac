@@ -1,0 +1,150 @@
+body {
+    padding: 0;
+    font-family: "poppins" sans-serif;
+    padding-left: 3%;
+
+
+}
+
+.container-fluid {
+    background-color: #f44336;
+    margin: 80;
+
+}
+
+.navbarcol{
+    color: white;
+    text-decoration: none;
+}
+
+.interior design {
+    font-size: 64px;
+    font-family: "poppins", sans-serif;
+    line-height: 1.5;
+    font-weight: bolder;
+}
+.offcanvas-body{
+    background-color: #f44336;
+}
+
+
+.home{
+  
+    color: white;
+    
+}
+
+.show {
+    text-emphasis-color: #f44336;
+    font-weight: bolder;
+    font-size: 48px;
+    margin: 1%;
+    margin-left:0;
+    margin-right:0;
+}
+
+.col-6 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    unicode-bidi: isolate;
+    font-family: "poppins", sans-serif;
+
+}
+
+.progress-stacked {
+    background-color: #f44336;
+}
+
+.containertext-center {
+
+    padding: 8px 16px;
+    border-bottom: 1px solid #ddd;
+    padding-top: 32px;
+}
+
+.show {
+    color: #f44336;
+}
+
+.rcol-6 {
+    margin-bottom: -6px;
+    margin-top: 16px;
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.interiordesign {
+    font-size: 64px;
+
+}
+
+.extrahight {
+    padding: 24px;
+    background-color: grey;
+}
+
+.extrahight0 {
+    padding: 24px;
+    background-color: #f44336
+}
+
+.list-group-item extrahight {}
+
+.footerlast {
+    text-align: end;
+    color: black;
+}
+
+/* 
+:root{
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #36dc35;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #21a537;
+    --light: #f8f9fa;
+    --dark: #343a40;
+} */
+.btn {
+    width: 100%;
+    background-color: #f44336;
+
+}
+
+.navbar {
+    color: white;
+}
+
+.gray {
+    color: #f1f1f1;
+}
+
+.image {
+    color: black;
+   
+}
+
+.card{
+    background-color: rgb(245, 223, 196);
+}
